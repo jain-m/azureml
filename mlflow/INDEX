@@ -1,0 +1,82 @@
+install_mlflow          Install MLflow
+mlflow_client           Initialize an MLflow Client
+mlflow_create_experiment
+                        Create Experiment
+mlflow_create_model_version
+                        Create a model version
+mlflow_create_registered_model
+                        Create registered model
+mlflow_delete_experiment
+                        Delete Experiment
+mlflow_delete_model_version
+                        Delete a model version
+mlflow_delete_registered_model
+                        Delete registered model
+mlflow_delete_run       Delete a Run
+mlflow_delete_tag       Delete Tag
+mlflow_download_artifacts
+                        Download Artifacts
+mlflow_end_run          End a Run
+mlflow_get_experiment   Get Experiment
+mlflow_get_latest_versions
+                        Get latest model versions
+mlflow_get_metric_history
+                        Get Metric History
+mlflow_get_model_version
+                        Get a model version
+mlflow_get_registered_model
+                        Get a registered model
+mlflow_get_run          Get Run
+mlflow_get_tracking_uri
+                        Get Remote Tracking URI
+mlflow_id               Get Run or Experiment ID
+mlflow_list_artifacts   List Artifacts
+mlflow_list_experiments
+                        List Experiments
+mlflow_list_registered_models
+                        List registered models
+mlflow_list_run_infos   List Run Infos
+mlflow_load_flavor      Load MLflow Model Flavor
+mlflow_load_model       Load MLflow Model
+mlflow_log_artifact     Log Artifact
+mlflow_log_batch        Log Batch
+mlflow_log_metric       Log Metric
+mlflow_log_model        Log Model
+mlflow_log_param        Log Parameter
+mlflow_maybe_create_conda_env
+                        Create conda env used by MLflow if it doesn't
+                        already exist
+mlflow_param            Read Command-Line Parameter
+mlflow_predict          Generate Prediction with MLflow Model
+mlflow_register_external_observer
+                        Register an external MLflow observer
+mlflow_rename_experiment
+                        Rename Experiment
+mlflow_rename_registered_model
+                        Rename a registered model
+mlflow_restore_experiment
+                        Restore Experiment
+mlflow_restore_run      Restore a Run
+mlflow_rfunc_serve      Serve an RFunc MLflow Model
+mlflow_run              Run an MLflow Project
+mlflow_save_model.crate
+                        Save Model for MLflow
+mlflow_search_experiments
+                        Search Experiments
+mlflow_search_runs      Search Runs
+mlflow_server           Run MLflow Tracking Server
+mlflow_set_experiment   Set Experiment
+mlflow_set_experiment_tag
+                        Set Experiment Tag
+mlflow_set_tag          Set Tag
+mlflow_set_tracking_uri
+                        Set Remote Tracking URI
+mlflow_start_run        Start Run
+mlflow_transition_model_version_stage
+                        Transition ModelVersion Stage
+mlflow_ui               Run MLflow User Interface
+mlflow_update_model_version
+                        Update model version
+mlflow_update_registered_model
+                        Update a registered model
+uninstall_mlflow        Uninstall MLflow
